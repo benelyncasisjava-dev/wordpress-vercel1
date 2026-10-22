@@ -1,1 +1,1 @@
-# wordpress-vercel1
+# wordpress-vercel
